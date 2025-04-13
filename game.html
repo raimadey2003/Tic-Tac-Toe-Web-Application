@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Game</title>
+  <link rel="stylesheet" href="tictactoe.css" />
+</head>
+<body class="game-body">
+  <div class="game-screen">
+    <div id="boardContainer" class="board"></div>
+
+    <div id="scorecard" class="scorecard hidden">
+      <p id="winnerText"></p>
+      <div class="score-box">
+        <p>Player X: <span id="scoreX">0</span></p>
+        <p id="opponentLabel">Player O: <span id="scoreO">0</span></p>
+      </div>
+      <button id="playAgain">Play Again</button>
+    </div>
+  </div>
+
+  <script src="tictactoe.js"></script>
+</body>
+</html>
