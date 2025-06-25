@@ -140,7 +140,7 @@ function minimax(board, depth, isMax) {
 }
 
 playAgainBtn.addEventListener('click', () => {
-  window.location.href = "tictactoe.html";
+  window.location.href = "index.html";
 });
 
 window.onload = initGame;
