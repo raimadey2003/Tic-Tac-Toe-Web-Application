@@ -2,12 +2,6 @@
 
 A dynamic and interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**, featuring **Player vs Player** and **Player vs AI** modes. Designed with a responsive layout, smooth animations, and a polished UI to deliver a fun user experience.
 
-## 📌 Project Status
-✅ Completed as Task-03: Tic-Tac-Toe Web Application
-
-💼 Internship Role: Web Developer Intern
-
-🏢 Organization: Prodigy InfoTech
 
 ## 🚀 Features
 
